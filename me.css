@@ -1,0 +1,45 @@
+		h1{
+					text-align:center;
+					color: red;
+					font-style: italic;
+		}
+			
+		h2{
+					text-align: center;
+					color: white;
+					font-style:bold;
+		}
+			
+		h3{
+					text-align:center;
+					color: purple;
+		}
+			
+		header{
+					background-color: pink;
+					padding: 20px;
+		}
+		main{
+					background-color:#82D5E0;
+					padding: 20px;
+					color: black;
+					text-align:center;
+					min-height: 600px;
+		}
+		
+		footer{
+					background-color: purple;
+					color:white;
+					padding: 60px;
+					font-size: 14 px;
+					text-align: center;
+		}
+		
+		ul{
+					text-align: left; 
+					color: black;
+					font-weight: bold;
+		}
+		li{
+					text-align: left;
+		}
